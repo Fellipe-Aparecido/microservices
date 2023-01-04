@@ -9,7 +9,7 @@ public class CambioServiceApplication {
 	public static void main(String[] args)
 	{
 		SpringApplication.run(CambioServiceApplication.class, args);
-		System.out.println("Servdor cambio-sservice online.");
+		System.out.println("Servdor cambio-service online.");
 	}
 
 }
